@@ -23,4 +23,5 @@
 
 ## 演示视频
 
-[演示视频](https://github.com/Chen-Xi-g/CloudMusic/blob/main/img/91257d91_20230831_134825_948.mp4)
+https://github.com/Chen-Xi-g/CloudMusic/assets/37918545/42154919-bc49-449c-818d-84b337f15c25
+
