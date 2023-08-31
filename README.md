@@ -22,4 +22,5 @@
 * [ExoPlayer](https://github.com/google/ExoPlayer)播放音乐
 
 ## 演示视频
-<video src='https://github.com/Chen-Xi-g/CloudMusic/blob/main/img/91257d91_20230831_134825_948.mp4' width=360/>
+
+[演示视频](https://github.com/Chen-Xi-g/CloudMusic/blob/main/img/91257d91_20230831_134825_948.mp4)
