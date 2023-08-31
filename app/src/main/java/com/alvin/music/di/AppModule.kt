@@ -51,7 +51,7 @@ class AppModule {
         httpLoggingInterceptor.level = HttpLoggingInterceptor.Level.BODY
         val client = OkHttpClient.Builder().addInterceptor(httpLoggingInterceptor).build()
         return Retrofit.Builder()
-            .baseUrl("https://api.gaoguofeng.top/")
+            .baseUrl("https://music.minlukj.com/")
             .addConverterFactory(json.asConverterFactory("application/json".toMediaType()))
             .client(client)
             .build()
@@ -65,7 +65,7 @@ class AppModule {
         httpLoggingInterceptor.level = HttpLoggingInterceptor.Level.BODY
         val client = OkHttpClient.Builder().addInterceptor(httpLoggingInterceptor).build()
         return Retrofit.Builder()
-            .baseUrl("https://api.gaoguofeng.top/")
+            .baseUrl("https://music.minlukj.com/")
             .addConverterFactory(json.asConverterFactory("application/json".toMediaType()))
             .client(client)
             .build()
