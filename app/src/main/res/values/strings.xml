@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">网抑云音乐</string>
+    <string name="str_menu">菜单</string>
+    <string name="str_search">搜索</string>
+    <string name="str_previous">上一首</string>
+    <string name="str_play">播放</string>
+    <string name="str_next">下一首</string>
+    <string name="str_close">关闭</string>
+    <string name="str_login">登录</string>
+</resources>

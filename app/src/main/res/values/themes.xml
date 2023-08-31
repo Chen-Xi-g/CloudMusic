@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <style name="Theme.Music" parent="android:Theme.Material.Light.NoActionBar"/>
+
+    <!--闪屏页动画-->
+    <style name="Theme.Music.Starting" parent="Theme.SplashScreen">
+        <item name="android:windowLightStatusBar">false</item>
+        <item name="windowSplashScreenBackground">@color/color_eb3b1c</item>
+        <item name="windowSplashScreenAnimatedIcon">@drawable/ic_splash_logo</item>
+        <item name="windowSplashScreenAnimationDuration">1500</item>
+        <item name="postSplashScreenTheme">@style/Theme.Music</item>
+    </style>
+</resources>

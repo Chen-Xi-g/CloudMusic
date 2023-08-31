@@ -1,0 +1,48 @@
+package com.alvin.music.ui.theme
+
+import androidx.compose.ui.graphics.Color
+
+/* 网易云 */
+val COLOR_EB3B1C = Color(0xFFEB3B1C)
+val COLOR_1B1B25 = Color(0xFF1B1B25)
+val COLOR_F8F9FF = Color(0xFFF8F9FF)
+val COLOR_222 = Color(0xFF222222)
+val COLOR_666666 = Color(0xFF666666)
+val COLOR_F9ECF0 = Color(0xFFF0DCF0)
+val COLOR_2E1A26 = Color(0xFF2E1A26)
+val COLOR_FF5722 = Color(0xFFFF5722)
+val COLOR_E91E63 = Color(0xFFE91E63)
+val COLOR_EBECF1 = Color(0xFFEBECF1)
+val COLOR_393B46 = Color(0xFF393B46)
+val COLOR_D19C45 = Color(0xFFD19C45)
+val COLOR_7A7FA0 = Color(0xFF7A7FA0)
+val COLOR_C17D56 = Color(0xFFC17D56)
+val COLOR_272530 = Color(0xFF272530)
+val COLOR_515151 = Color(0xFF2F3550)
+val COLOR_D4205D = Color(0xFFD4205D)
+
+/*透明度颜色*/
+val COLOR_90_FFF = Color(0xE6FFFFFF)
+val COLOR_80_000 = Color(0xCC000000)
+val COLOR_30_000 = Color(0x4D000000)
+val COLOR_70_FFF = Color(0xB3FFFFFF)
+val COLOR_50_FFF = Color(0x80FFFFFF)
+val COLOR_70_333 = Color(0xB3333333)
+val COLOR_50_333 = Color(0x80333333)
+val COLOR_10_FFF = Color(0x1AFFFFFF)
+val COLOR_10_000 = Color(0x1A000000)
+val COLOR_15_EB3B1C = Color(0x26EB3B1C)
+val COLOR_97_23212B = Color(0xF723212B)
+
+val COLOR_091227 = Color(0xFF091227)
+val COLOR_F0F6FF = Color(0xFFF0F6FF)
+val COLOR_EAF0FF = Color(0xFFEAF0FF)
+val COLOR_34_BLACK = Color(0x57000000)
+val COLOR_8996B8 = Color(0xFF8996B8)
+val COLOR_70_A5C0FF = Color(0xB3A5C0FF)
+val COLOR_20_WHITE = Color(0x33FFFFFF)
+val COLOR_20_BLACK = Color(0x33000000)
+val COLOR_CACACA = Color(0xFFCACACA)
+val COLOR_ff5a44 = Color(0xFFff5a44)
+val COLOR_ff395e = Color(0xFFff395e)
+
